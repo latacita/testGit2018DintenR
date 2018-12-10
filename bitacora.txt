@@ -11,4 +11,8 @@
  (03)	Add bitacora.txt
 	Commit "Paso 3"
 	Push
+ (05)   Add bitacora.txt
+        Commit "Paso 05"
+ (06)   Branch develop
+ (07)   Checkout -b feature/Ticket220
         
