@@ -6,3 +6,9 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)   Clone url
+ (02)	Editar el fichero
+ (03)	Add bitacora.txt
+	Commit "Paso 3"
+	Push
+        
