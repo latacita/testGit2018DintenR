@@ -53,5 +53,15 @@
         Push master
  (31)   Checkout feature/Ticket222
  (32)   Checkout develop bitacora.txt
-
+ (34)   Add bitacora.txt
+	Commit "Paso 34"
+ (35)   Checkout develop
+        Merge --no-ff feature/Ticket222   Al realizar la fusión, se produce
+                                          un error porque existen conflictos
+                                          en el archivo bitacora.txt
+	Se edita el fichero para resolver
+ 	los conflictos.
+	Commit
+ (36)   Checkout master
+ 	Merge --no-ff develop
 
