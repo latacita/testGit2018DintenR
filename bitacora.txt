@@ -32,4 +32,15 @@
  (20)   Branch feature/Ticket222
  (21)   Checkout feature/Ticket220
  (22)   fast-forward
+ (23)   Add bitacora.txt
+        Commit "Paso 23"
+ (24)   Checkout develop
+ (25)   Merge --no-ff feature/Ticket220
+ (26)   Merge --no-ff fearure/Ticket221   Al realizar la fusión, se produce
+                                          un error porque existen conflictos
+                                          en el archivo bitacora.txt
+      	Se resuelven los conflictos 
+        fusionando y ordenando correctamente
+        los pasos en el fichero.
+        Commit
 
