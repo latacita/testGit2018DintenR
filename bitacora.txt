@@ -43,4 +43,15 @@
         fusionando y ordenando correctamente
         los pasos en el fichero.
         Commit
+ (28)   Add bitacora.txt
+        Commit "Paso 28"
+ (29)   Tag Step29
+ (30)   Push develop
+	Push feature/Ticket220
+        Push feature/Ticket221
+        Push feature/Ticket222
+        Push master
+ (31)   Checkout feature/Ticket222
+ (32)   Checkout develop bitacora.txt
+
 
