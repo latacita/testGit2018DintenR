@@ -15,4 +15,6 @@
         Commit "Paso 05"
  (06)   Branch develop
  (07)   Checkout -b feature/Ticket220
+ (13)   Stash
+        Checkout feature/Ticket220
         
